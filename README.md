@@ -1,4 +1,4 @@
-![banner](icon.svg)
+yoga![banner](icon.svg)
 
 ---
 
